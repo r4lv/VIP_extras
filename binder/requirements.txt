@@ -1,1 +1,1 @@
-vip_hci ~= 0.9.8
+-e git+https://github.com/r4lv/VIP.git@binder-pr328#egg=vip-pr328
